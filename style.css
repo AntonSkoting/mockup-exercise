@@ -62,8 +62,9 @@ section.middle button {
     padding: 0.5rem;
     border-radius: 0.5rem;
     color: lightgray;
-    border-color: lightgray;
-
+    border: none;
+    box-shadow: 1px 1px rgba(0, 0, 0, 0.2);
+    vertical-align: middle;
 }
 
 section.bottom {
